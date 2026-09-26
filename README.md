@@ -37,8 +37,8 @@ fixers for controlled repair.
                     ┌─────────┴─────────┐
                     ▼                   ▼
              ┌─────────────┐    ┌─────────────────┐
-             │ scanner.py  │    │ dependency_graph│
-             │             │    │      .py        │
+             │ scanner.py  │    │                 │
+             │             │    │                 │
              │ Discover    │    │ Map dependencies│
              │ project     │    │ & config        │
              └──────┬──────┘    └────────┬────────┘
